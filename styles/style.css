@@ -112,7 +112,7 @@ header div img{
 footer{
 	height: 400px;
 	margin-top: 20px;
-	background-color: #4021A6;
+	background-color: #8D77E7;
 	text-align: center;
 }
 
@@ -130,4 +130,41 @@ footer p{
 	height: 50px;
 	width: 50px;
 	margin: 30px 20px;
+}
+
+.fab
+{
+	font-size: 3em;
+	margin-left: 1em;
+	margin-top: 1em;
+}
+
+.fa-github-square
+{
+	color: #272525;
+}
+
+.fa-github-square:hover
+{
+	color: #FF0000;
+}
+
+.fa-twitter
+{
+	color: #0064FF;
+}
+
+.fa-twitter:hover
+{
+	color: #FF0000;
+}
+
+.fa-linkedin
+{
+	color: #003D90;
+}
+
+.fa-linkedin:hover
+{
+	color: #FF0000;
 }
